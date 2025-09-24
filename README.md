@@ -46,8 +46,8 @@
   <!-- Extra badges -->
   <a href="#"><img src="https://img.shields.io/badge/AI-Research%20%26%20Development-informational" alt="AI R&D" height="24"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Focus-Generative%20AI-blueviolet" alt="Generative AI" height="24"/></a>
-
 </p>
+
 ---
 
 ### 📊 GitHub Stats
